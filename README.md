@@ -1,65 +1,74 @@
 <h1 align="center">👋 ¡Hola! Soy Paolo Velarde</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/placeholder" width="160" alt="Foto de perfil de Paolo" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/your-user-id" width="160" alt="Foto de perfil de Paolo" style="border-radius: 50%;">
 </p>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> apasionado por la tecnología, el software y la innovación.  
+  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> enfocado en el desarrollo de soluciones innovadoras que combinan software, datos y propósito social.
 </p>
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy un joven boliviano con experiencia en desarrollo de software, apasionado por los retos tecnológicos y los proyectos que generan impacto real. Me gusta construir soluciones funcionales que combinan utilidad, diseño y eficiencia.
+Soy un joven boliviano apasionado por la programación, los mapas, la inteligencia artificial y los desafíos reales. Me gusta crear sistemas que resuelvan problemas de manera eficiente, tanto para organizaciones como para comunidades.
 
-- 💡 Me interesan los **proyectos educativos**, **logísticos**, y **sistemas inteligentes**.
-- 🚀 He participado en hackathones nacionales con ideas orientadas a educación, conectividad y transformación digital.
-- 🌍 Tengo experiencia en **frontend y backend**, tanto para la web como para soluciones móviles y geoespaciales.
+- 💡 Apasionado por el **desarrollo web**, la **inteligencia artificial aplicada** y los **sistemas geoespaciales**.
+- 🚀 He participado en **hackathones nacionales** proponiendo ideas en educación, logística, seguridad y emprendimiento social.
+- 🔬 Interesado en la fusión de **tecnología + impacto social**.
 
 ---
 
 ## 🛠️ Tecnologías que domino
 
 <p align="center">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" alt="PHP">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL">
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript">
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60" alt="Flutter">
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" alt="Firebase">
-  </a>
-  <a href="https://qgis.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_new.svg" width="60" alt="QGIS">
-  </a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" alt="PHP"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL"></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60" alt="Flutter"></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" alt="Firebase"></a>
+  <a href="https://qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_new.svg" width="60" alt="QGIS"></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="Scikit-Learn"></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60" alt="OpenCV"></a>
 </p>
 
 ---
 
 ## 📂 Proyectos destacados
 
-- 🔧 **Sistema de Logística y Distribución**: plataforma web con mapas interactivos usando PHP + PostgreSQL + QGIS.
-- 📚 **TALENTO**: plataforma educativa personalizada para niños en zonas rurales, impulsada por IA (Hackathon Build with AI).
-- 📦 **ISABELLA**: identidad de marca para negocio local de pollo, optimizando venta y distribución.
+### 🔧 [Sistema de Denuncias](https://github.com/velardep/Sistema_Denuncias)
+Sistema web para que ciudadanos reporten denuncias, con panel de administración y clasificación por tipo y lugar.  
+`PHP + PostgreSQL + JS + Bootstrap`
+
+---
+
+### 🛡️ [Cámara Defensiva SubLetal](https://github.com/velardep/Camara_Defensiva_SubLetal)
+Sistema que combina hardware y software para registrar posibles agresiones usando sensores de movimiento y grabación automática.  
+`Arduino + Python + Electrónica + Web`
+
+---
+
+### 😊 [Reconocimiento de Emociones con Machine Learning](https://github.com/velardep/Reconocimiento_de_Emociones_Machine_Learning)
+Reconocimiento facial de emociones usando OpenCV y entrenamiento de modelos con scikit-learn.  
+`Python + OpenCV + ML`
+
+---
+
+### 🗺️ [Logística y Distribución](https://github.com/velardep/Logistica_y_Distribucion)
+Plataforma geoespacial para gestionar centros logísticos y rutas con capas generadas en QGIS y visualización con Google Maps.  
+`PHP + PostgreSQL + GeoJSON + Google Maps API + QGIS`
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: **velardep44@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/paolo-alejandro-velarde-ramírez-407a402b7](https://www.linkedin.com/in/paolo-alejandro-velarde-ramírez-407a402b7)
+- 📧 **velardep44@gmail.com**
+- 💼 [LinkedIn: Paolo Alejandro Velarde Ramírez](https://www.linkedin.com/in/paolo-alejandro-velarde-ramírez-407a402b7)
 
 ---
 
 <p align="center">
-  <em>Gracias por visitar mi perfil. ¡Siempre estoy abierto a colaborar o aprender cosas nuevas!</em>
+  <em>✨ Gracias por visitar mi perfil. Siempre estoy abierto a colaborar, aprender y compartir conocimientos. ¡Conectemos! ✨</em>
 </p>
+
