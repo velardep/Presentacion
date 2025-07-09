@@ -23,15 +23,41 @@ Soy un joven boliviano apasionado por la programación, los mapas, la inteligenc
 ## 🛠️ Tecnologías que domino
 
 <p align="center">
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" alt="PHP"></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL"></a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript"></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60" alt="Flutter"></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" alt="Firebase"></a>
-  <a href="https://qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_new.svg" width="60" alt="QGIS"></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="Scikit-Learn"></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="60" alt="OpenCV"></a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" alt="PHP">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60" alt="PostgreSQL">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="60" alt="MySQL">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" alt="Python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" alt="JavaScript">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" alt="CSS3">
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++">
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="60" alt="Laravel">
+  </a>
+  <a href="https://qgis.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_new.svg" width="60" alt="QGIS">
+  </a>
+  <a href="https://www.solidworks.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Solidworks_logo.svg/512px-Solidworks_logo.svg.png" width="60" alt="SolidWorks">
+  </a>
 </p>
+
 
 ---
 
