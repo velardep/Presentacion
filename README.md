@@ -47,14 +47,17 @@ Soy un joven boliviano apasionado por la programación, los mapas, la inteligenc
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" alt="C++">
   </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="60" alt="Laravel">
+  <!-- Laravel (Full logo oficial) -->
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="200" alt="Laravel Logo">
   </a>
+  <!-- QGIS -->
   <a href="https://qgis.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/QGIS_logo_new.svg" width="60" alt="QGIS">
   </a>
+  <!-- SolidWorks -->
   <a href="https://www.solidworks.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Solidworks_logo.svg/512px-Solidworks_logo.svg.png" width="60" alt="SolidWorks">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Solidworks_logo.svg" width="100" alt="SolidWorks">
   </a>
 </p>
 
