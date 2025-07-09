@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Paolo Velarde</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id" width="160" alt="Foto de perfil de Paolo" style="border-radius: 50%;">
+  <img src="https://github.com/velardep.png" width="160" alt="Foto de perfil de Paolo" style="border-radius: 50%;">
 </p>
 
 <p align="center">
